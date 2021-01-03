@@ -13,7 +13,7 @@ sites:
   - name: AWX
     url: https://awx.adoptopenjdk.net
   - name: Own site
-    url: https://sxa.org.uk
+    url: http://sxa.org.uk
   - name: Random site
     url: https://www.southernjive.co.uk
 
