@@ -12,6 +12,8 @@ sites:
     url: https://bastillion.adoptopenjdk.net
   - name: AWX
     url: https://awx.adoptopenjdk.net
+  - name: TRSS
+    url: https://trss.adoptopenjdk.net
   - name: Own site
     url: http://sxa.org.uk
   - name: Random site
