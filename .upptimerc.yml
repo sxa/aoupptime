@@ -9,7 +9,7 @@ sites:
   - name: API
     url: https://api.adoptopenjdk.net
   - name: Bastillion
-    url: https://bastillion.adoptopenjdk.net
+    url: https://bastillion.adoptopenjdk.net:8443
   - name: AWX
     url: https://awx.adoptopenjdk.net
   - name: TRSS
