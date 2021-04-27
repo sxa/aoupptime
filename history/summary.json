@@ -78,18 +78,20 @@
     "url": "https://trss.adoptopenjdk.net",
     "icon": "https://favicons.githubusercontent.com/trss.adoptopenjdk.net",
     "slug": "trss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 628,
-    "timeWeek": 538,
-    "timeMonth": 545,
-    "timeYear": 516,
-    "dailyMinutesDown": {}
+    "time": 518,
+    "timeDay": 663,
+    "timeWeek": 558,
+    "timeMonth": 550,
+    "timeYear": 518,
+    "dailyMinutesDown": {
+      "2021-04-27": 0
+    }
   },
   {
     "name": "Own site",
