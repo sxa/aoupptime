@@ -24,9 +24,9 @@
     "url": "https://api.adoptopenjdk.net",
     "icon": "https://favicons.githubusercontent.com/api.adoptopenjdk.net",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 195,
     "timeMonth": 171,
     "timeYear": 328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Bastillion",
