@@ -138,14 +138,14 @@
     "url": "https://www.southernjive.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.southernjive.co.uk",
     "slug": "random-site",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "80.10%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "81.20%",
     "uptimeWeek": "91.64%",
     "uptimeMonth": "95.65%",
     "uptimeYear": "99.54%",
     "time": 1832,
-    "timeDay": 2104,
+    "timeDay": 2121,
     "timeWeek": 2051,
     "timeMonth": 2066,
     "timeYear": 1858,
@@ -192,8 +192,7 @@
       "2021-09-12": 19,
       "2021-09-06": 59,
       "2021-09-05": 16,
-      "2021-09-02": 16,
-      "2021-08-24": 22
+      "2021-09-02": 16
     }
   }
 ]
