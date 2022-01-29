@@ -99,7 +99,7 @@
     "icon": "https://favicons.githubusercontent.com/sxa.org.uk",
     "slug": "own-site",
     "status": "up",
-    "uptime": "94.92%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -138,14 +138,14 @@
     "url": "https://www.southernjive.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.southernjive.co.uk",
     "slug": "random-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "76.77%",
+    "uptimeDay": "79.32%",
     "uptimeWeek": "87.77%",
     "uptimeMonth": "94.70%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 1840,
-    "timeDay": 2088,
+    "timeDay": 2079,
     "timeWeek": 2077,
     "timeMonth": 2067,
     "timeYear": 1869,
@@ -186,8 +186,7 @@
       "2021-10-31": 20,
       "2021-10-27": 16,
       "2021-10-19": 16,
-      "2021-10-02": 36,
-      "2021-09-18": 18
+      "2021-10-02": 36
     }
   }
 ]
