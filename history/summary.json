@@ -99,7 +99,7 @@
     "icon": "https://favicons.githubusercontent.com/sxa.org.uk",
     "slug": "own-site",
     "status": "up",
-    "uptime": "95.05%",
+    "uptime": "95.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -140,9 +140,9 @@
     "slug": "random-site",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "87.10%",
-    "uptimeWeek": "91.96%",
-    "uptimeMonth": "93.86%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "92.04%",
+    "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
     "time": 1882,
     "timeDay": 2099,
@@ -150,7 +150,7 @@
     "timeMonth": 2074,
     "timeYear": 1918,
     "dailyMinutesDown": {
-      "2022-02-08": 187,
+      "2022-02-08": 179,
       "2022-02-07": 114,
       "2022-02-06": 136,
       "2022-02-05": 64,
@@ -171,7 +171,7 @@
       "2022-01-21": 19,
       "2022-01-20": 73,
       "2022-01-19": 22,
-      "2022-01-18": 18
+      "2022-01-18": 33
     }
   }
 ]
