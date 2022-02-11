@@ -138,14 +138,14 @@
     "url": "https://www.southernjive.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.southernjive.co.uk",
     "slug": "random-site",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "91.54%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "91.53%",
     "uptimeWeek": "92.50%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "93.84%",
+    "uptimeYear": "99.49%",
     "time": 1890,
-    "timeDay": 2134,
+    "timeDay": 2147,
     "timeWeek": 2081,
     "timeMonth": 2078,
     "timeYear": 1928,
@@ -170,7 +170,7 @@
       "2022-01-25": 93,
       "2022-01-24": 212,
       "2022-01-23": 97,
-      "2022-01-22": 22
+      "2022-01-22": 4
     }
   }
 ]
