@@ -62,10 +62,10 @@
     "url": "https://awx.adoptopenjdk.net",
     "icon": "https://favicons.githubusercontent.com/awx.adoptopenjdk.net",
     "slug": "awx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
@@ -73,7 +73,9 @@
     "timeWeek": 606,
     "timeMonth": 613,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-22": 1
+    }
   },
   {
     "name": "TRSS",
@@ -138,15 +140,15 @@
     "url": "https://www.southernjive.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.southernjive.co.uk",
     "slug": "random-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "90.17%",
-    "uptimeWeek": "89.30%",
-    "uptimeMonth": "94.10%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "89.60%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 1930,
-    "timeDay": 2182,
-    "timeWeek": 2170,
+    "timeDay": 2241,
+    "timeWeek": 2173,
     "timeMonth": 2111,
     "timeYear": 1973,
     "dailyMinutesDown": {
@@ -168,8 +170,7 @@
       "2022-02-07": 114,
       "2022-02-06": 136,
       "2022-02-05": 64,
-      "2022-02-04": 108,
-      "2022-02-03": 28
+      "2022-02-04": 108
     }
   }
 ]
