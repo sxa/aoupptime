@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 80,
-    "timeWeek": 105,
+    "timeDay": 95,
+    "timeWeek": 94,
     "timeMonth": 106,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 238,
-    "timeDay": 231,
-    "timeWeek": 214,
+    "timeDay": 55,
+    "timeWeek": 191,
     "timeMonth": 164,
     "timeYear": 179,
     "dailyMinutesDown": {
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 518,
-    "timeWeek": 522,
+    "timeDay": 417,
+    "timeWeek": 507,
     "timeMonth": 486,
     "timeYear": 495,
     "dailyMinutesDown": {}
@@ -69,8 +69,8 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 594,
-    "timeDay": 594,
-    "timeWeek": 582,
+    "timeDay": 439,
+    "timeWeek": 571,
     "timeMonth": 598,
     "timeYear": 593,
     "dailyMinutesDown": {
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 497,
-    "timeDay": 491,
-    "timeWeek": 482,
+    "timeDay": 336,
+    "timeWeek": 452,
     "timeMonth": 462,
     "timeYear": 495,
     "dailyMinutesDown": {}
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.58%",
     "time": 276,
-    "timeDay": 275,
-    "timeWeek": 273,
+    "timeDay": 225,
+    "timeWeek": 262,
     "timeMonth": 269,
     "timeYear": 277,
     "dailyMinutesDown": {
@@ -141,18 +141,18 @@
     "icon": "https://favicons.githubusercontent.com/www.southernjive.co.uk",
     "slug": "random-site",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "94.31%",
-    "uptimeMonth": "94.21%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.58%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "94.15%",
+    "uptimeYear": "99.51%",
     "time": 1953,
-    "timeDay": 2147,
-    "timeWeek": 2227,
+    "timeDay": 2111,
+    "timeWeek": 2224,
     "timeMonth": 2141,
-    "timeYear": 2000,
+    "timeYear": 2001,
     "dailyMinutesDown": {
-      "2022-03-03": 34,
+      "2022-03-03": 23,
       "2022-03-02": 17,
       "2022-03-01": 80,
       "2022-02-28": 74,
@@ -172,7 +172,7 @@
       "2022-02-14": 168,
       "2022-02-13": 243,
       "2022-02-12": 169,
-      "2022-02-11": 81
+      "2022-02-11": 118
     }
   }
 ]
