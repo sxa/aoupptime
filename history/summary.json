@@ -63,18 +63,19 @@
     "icon": "https://favicons.githubusercontent.com/awx.adoptopenjdk.net",
     "slug": "awx",
     "status": "down",
-    "uptime": "97.67%",
+    "uptime": "97.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.90%",
-    "uptimeYear": "97.14%",
+    "uptimeMonth": "65.77%",
+    "uptimeYear": "97.13%",
     "time": 591,
     "timeDay": 143,
     "timeWeek": 143,
     "timeMonth": 523,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2022-03-26": 1437,
+      "2022-03-27": 53,
+      "2022-03-26": 1440,
       "2022-03-25": 1440,
       "2022-03-24": 1440,
       "2022-03-23": 1440,
@@ -154,9 +155,9 @@
     "slug": "random-site",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "76.81%",
-    "uptimeWeek": "79.46%",
-    "uptimeMonth": "93.13%",
+    "uptimeDay": "77.37%",
+    "uptimeWeek": "80.09%",
+    "uptimeMonth": "93.10%",
     "uptimeYear": "99.43%",
     "time": 1996,
     "timeDay": 2312,
@@ -164,7 +165,7 @@
     "timeMonth": 2167,
     "timeYear": 2049,
     "dailyMinutesDown": {
-      "2022-03-26": 334,
+      "2022-03-26": 326,
       "2022-03-25": 230,
       "2022-03-24": 480,
       "2022-03-23": 256,
@@ -180,7 +181,7 @@
       "2022-03-13": 66,
       "2022-03-12": 48,
       "2022-03-11": 157,
-      "2022-03-10": 16
+      "2022-03-10": 37
     }
   }
 ]
