@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/awx.adoptopenjdk.net",
     "slug": "awx",
     "status": "down",
-    "uptime": "94.18%",
+    "uptime": "94.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.82%",
-    "uptimeYear": "92.55%",
+    "uptimeMonth": "10.58%",
+    "uptimeYear": "92.53%",
     "time": 578,
     "timeDay": 150,
     "timeWeek": 180,
     "timeMonth": 231,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-04-15": 959,
+      "2022-04-15": 1062,
       "2022-04-14": 1440,
       "2022-04-13": 1440,
       "2022-04-12": 1440,
@@ -170,15 +170,15 @@
     "url": "https://www.southernjive.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.southernjive.co.uk",
     "slug": "random-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "82.54%",
-    "uptimeWeek": "79.07%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "82.52%",
+    "uptimeWeek": "79.67%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "99.43%",
     "time": 2026,
     "timeDay": 2035,
-    "timeWeek": 2147,
+    "timeWeek": 2151,
     "timeMonth": 2144,
     "timeYear": 2078,
     "dailyMinutesDown": {
@@ -192,7 +192,7 @@
       "2022-04-08": 334,
       "2022-04-07": 193,
       "2022-04-06": 308,
-      "2022-04-05": 242
+      "2022-04-05": 210
     }
   }
 ]
