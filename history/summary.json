@@ -54,7 +54,7 @@
     "timeDay": 436,
     "timeWeek": 485,
     "timeMonth": 466,
-    "timeYear": 490,
+    "timeYear": 489,
     "dailyMinutesDown": {}
   },
   {
@@ -63,18 +63,19 @@
     "icon": "https://favicons.githubusercontent.com/awx.adoptopenjdk.net",
     "slug": "awx",
     "status": "down",
-    "uptime": "94.12%",
+    "uptime": "94.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.80%",
-    "uptimeYear": "92.47%",
+    "uptimeMonth": "9.60%",
+    "uptimeYear": "92.45%",
     "time": 577,
     "timeDay": 174,
     "timeWeek": 176,
     "timeMonth": 216,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2022-04-15": 1403,
+      "2022-04-16": 53,
+      "2022-04-15": 1440,
       "2022-04-14": 1440,
       "2022-04-13": 1440,
       "2022-04-12": 1440,
@@ -121,7 +122,7 @@
     "timeDay": 426,
     "timeWeek": 455,
     "timeMonth": 428,
-    "timeYear": 485,
+    "timeYear": 484,
     "dailyMinutesDown": {}
   },
   {
@@ -177,8 +178,8 @@
     "uptimeMonth": "93.06%",
     "uptimeYear": "99.42%",
     "time": 2026,
-    "timeDay": 1951,
-    "timeWeek": 2151,
+    "timeDay": 1952,
+    "timeWeek": 2153,
     "timeMonth": 2144,
     "timeYear": 2078,
     "dailyMinutesDown": {
