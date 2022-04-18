@@ -67,14 +67,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.67%",
-    "uptimeYear": "91.70%",
+    "uptimeYear": "91.69%",
     "time": 576,
     "timeDay": 219,
     "timeWeek": 172,
     "timeMonth": 215,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-04-18": 1130,
+      "2022-04-18": 1176,
       "2022-04-17": 1440,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
@@ -173,16 +173,16 @@
     "url": "https://www.southernjive.co.uk",
     "icon": "https://favicons.githubusercontent.com/www.southernjive.co.uk",
     "slug": "random-site",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "72.72%",
-    "uptimeWeek": "79.64%",
-    "uptimeMonth": "92.81%",
-    "uptimeYear": "99.40%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "74.57%",
+    "uptimeWeek": "79.63%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "99.41%",
     "time": 2032,
-    "timeDay": 2003,
-    "timeWeek": 2084,
-    "timeMonth": 2130,
+    "timeDay": 2008,
+    "timeWeek": 2083,
+    "timeMonth": 2131,
     "timeYear": 2078,
     "dailyMinutesDown": {
       "2022-04-18": 247,
@@ -195,7 +195,7 @@
       "2022-04-11": 325,
       "2022-04-10": 324,
       "2022-04-09": 373,
-      "2022-04-08": 122
+      "2022-04-08": 81
     }
   }
 ]
